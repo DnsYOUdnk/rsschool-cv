@@ -44,10 +44,10 @@ const parsURL = (url) => {
 
 ****
 ## My portfolio
- * https://dnsyoudnk.github.io/HTML-CSS-JS/portfolio/
- * https://dnsyoudnk.github.io/HTML-CSS-JS/eco-sounds/
- * https://dnsyoudnk.github.io/HTML-CSS-JS/random-jokes/
- * https://dnsyoudnk.github.io/HTML-CSS-JS/TicTacToe/
+ * [Portfolio task](https://dnsyoudnk.github.io/HTML-CSS-JS/portfolio/)
+ * [Eco-sounds](https://dnsyoudnk.github.io/HTML-CSS-JS/eco-sounds/)
+ * [Random-jokes](https://dnsyoudnk.github.io/HTML-CSS-JS/random-jokes/)
+ * [TicTacToe](https://dnsyoudnk.github.io/HTML-CSS-JS/TicTacToe/)
 
 ****
 ## Education
