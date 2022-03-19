@@ -24,3 +24,36 @@
 * JavaScript(Basic)
 * Git/GitHub
 * Figma/Adobe Photoshop
+
+****
+## Code examples
+```
+const parsURL = (url) => {
+    let resultArr = [];
+    const regExp = /(https?:\/\/[A-Za-z0-9_\-\.]*)(\/[\w_\/\-]*)?(\?[\w=&]*)?(#.*)?/;
+    const matchArr = url.match(regExp);
+        for (let i = 1; i < matchArr.length; i++) {
+            resultArr.push(matchArr[i])
+        }
+    return resultArr
+}
+```
+****
+## Work experience
+ * НПООО "Энергоприбор" - Design engineer 2016-2020
+
+****
+## My portfolio
+ * https://dnsyoudnk.github.io/HTML-CSS-JS/portfolio/
+ * https://dnsyoudnk.github.io/HTML-CSS-JS/eco-sounds/
+ * https://dnsyoudnk.github.io/HTML-CSS-JS/random-jokes/
+ * https://dnsyoudnk.github.io/HTML-CSS-JS/TicTacToe/
+
+****
+## Education
+* BNTU FITR 2011-2016 Electrical engineer
+* BNTU MIDO 2016-2018 Master of Engineering and Technology
+
+****
+## Level English
+ * A2+ (Pre-intermediate)
